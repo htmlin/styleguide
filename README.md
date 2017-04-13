@@ -17,3 +17,7 @@
 * [CSS 编码规范](./styleguide/css.md)
 
 * [JavaScript 编码规范](./styleguide/javascript.md)
+
+## 检测工具
+
+* [ESLint](./eslint/.eslintrc.js)
