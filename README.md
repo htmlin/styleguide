@@ -1,12 +1,8 @@
-# styleguide
+# 前端编码规范
 
-前端编码规范
+如果你觉得这个规范有任何不合理的地方，欢迎访问 [New Issue](https://github.com/fedesigner/styleguide/issues) 一起探讨
 
-如果你觉得这个规范有任何不合理的地方，请访问 [New Issue](https://github.com/fedesigner/styleguide/issues) 一起探讨
-
-## 黄金定律
-
-> 不管有多少人共同参与同一项目，一定要确保每一行代码都像是同一个人编写的
+> 程序是写给人读的，只是偶尔让计算机执行一下。—— Donald Knuth
 
 ## 规范
 
@@ -20,4 +16,4 @@
 
 ## 检测工具
 
-* [ESLint](./eslint/.eslintrc.js)
+* [ESLint 配置](./eslint/.eslintrc.js)
