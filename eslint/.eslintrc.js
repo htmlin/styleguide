@@ -59,6 +59,8 @@ module.exports = {
         // 警告
         "dot-notation": ["warn"],
         "no-shadow": ["warn"],
-        "no-trailing-spaces": ["warn"]
+        "no-trailing-spaces": ["warn", {
+            "skipBlankLines": true
+        }]
     }
 };
