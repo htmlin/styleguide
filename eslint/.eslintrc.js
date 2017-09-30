@@ -3,7 +3,8 @@ module.exports = {
         "browser": true,
         "commonjs": true,
         "es6": true,
-        "jquery": true
+        "jquery": true,
+        "node": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
@@ -16,7 +17,7 @@ module.exports = {
         "brace-style": ["error", "1tbs", {
             "allowSingleLine": true
         }],
-        "comma-dangle": ["error", "never"],
+        "comma-dangle": [2, "only-multiline"],
         "comma-spacing": ["error"],
         "comma-style": ["error"],
         "indent": ["error", 4, {
